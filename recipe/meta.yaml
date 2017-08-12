@@ -22,7 +22,7 @@ build:
     - pip install --no-deps .
 
 requirements:
-  build:
+  host:
     - python
     - pip 
   run:
