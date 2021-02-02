@@ -1,7 +1,7 @@
 {% set name = "grin" %}
-{% set version = "1.2.1" %}
+{% set version = "1.3.0" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "bf39303bc563c4f365365b5ff32e219dc2530a4469b7af25aa6a457ec2e29feb" %}
+{% set hash_value = "a8e5a1cc9461322be76cee9bd91fd546d64bbb2fd78dce8acaea9c424ade0db2" %}
 
 package:
   name: {{ name|lower }}
